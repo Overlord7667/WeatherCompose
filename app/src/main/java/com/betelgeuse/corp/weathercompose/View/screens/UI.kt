@@ -1,4 +1,4 @@
-package com.betelgeuse.corp.weathercompose.screens
+package com.betelgeuse.corp.weathercompose.View.screens
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
@@ -27,7 +27,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import coil.compose.AsyncImage
-import com.betelgeuse.corp.weathercompose.data.WeatherModel
+import com.betelgeuse.corp.weathercompose.Model.WeatherModel
 import com.betelgeuse.corp.weathercompose.ui.theme.BlueBack
 
 @Composable

@@ -1,4 +1,4 @@
-package com.betelgeuse.corp.weathercompose.data
+package com.betelgeuse.corp.weathercompose.Model
 
 data class WeatherModel(
     val city: String,
